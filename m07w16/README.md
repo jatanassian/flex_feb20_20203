@@ -2,12 +2,12 @@
 
 ## To Do
 
-- [ ] Hooks
-- [ ] Custom Hooks
-- [ ] Example: Counter
-- [ ] Example: Effect
-- [ ] Example: Location Data
-- [ ] Example: Mouse Position
-- [ ] Example: Key Press
+- [x] Hooks
+- [x] Custom Hooks
+- [x] Example: Counter
+- [x] Example: Effect
+- [x] Example: Location Data
+- [x] Example: Mouse Position
+- [x] Example: Key Press
 
 ## Notes

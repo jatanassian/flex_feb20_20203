@@ -1,9 +1,10 @@
 import './App.css';
+import { KeyPress } from './components/KeyPress';
 
 function App() {
 	return (
 		<div className='App'>
-			<h1>Hello</h1>
+			<KeyPress />
 		</div>
 	);
 }
